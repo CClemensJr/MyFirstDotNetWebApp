@@ -1,0 +1,10 @@
+/Users/datHavocReigns/supermva/bin/Debug/netcoreapp2.0/supermva.deps.json
+/Users/datHavocReigns/supermva/bin/Debug/netcoreapp2.0/supermva.runtimeconfig.json
+/Users/datHavocReigns/supermva/bin/Debug/netcoreapp2.0/supermva.runtimeconfig.dev.json
+/Users/datHavocReigns/supermva/bin/Debug/netcoreapp2.0/supermva.dll
+/Users/datHavocReigns/supermva/bin/Debug/netcoreapp2.0/supermva.pdb
+/Users/datHavocReigns/supermva/obj/Debug/netcoreapp2.0/supermva.csproj.CoreCompileInputs.cache
+/Users/datHavocReigns/supermva/obj/Debug/netcoreapp2.0/supermva.AssemblyInfoInputs.cache
+/Users/datHavocReigns/supermva/obj/Debug/netcoreapp2.0/supermva.AssemblyInfo.cs
+/Users/datHavocReigns/supermva/obj/Debug/netcoreapp2.0/supermva.dll
+/Users/datHavocReigns/supermva/obj/Debug/netcoreapp2.0/supermva.pdb
